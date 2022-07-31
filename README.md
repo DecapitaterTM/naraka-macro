@@ -1,4 +1,7 @@
 # naraka-macro
-macro for naraka bladepoint and public anticheat bypass
+macro for naraka bladepoint. compile with pyinstaller and give admin perms otherwise ac will block it.
+pyinstaller --onefile --uac-admin (filename.py)
 
-not detected as of now
+got plans to add other stuff but lazy asf
+
+not detected as of 7/31/22
